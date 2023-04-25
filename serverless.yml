@@ -15,7 +15,7 @@ package:
 functions:
   theLambda:
     name: test-lambda
-    handler: tool_name.tool_name.lambda_handler
+    handler: testaws.testaws.lambda_handler
     description: test-lambda
     timeout: 5 # seconds
     memorySize: 128 # mb
